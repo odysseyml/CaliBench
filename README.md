@@ -112,11 +112,11 @@ regenerated only with the noted generation/extraction scripts.
 
 ## Citation
 
-<!-- TODO: confirm/complete once the paper metadata is final -->
 ```bibtex
 @article{calibench,
-  title  = {CaliBench: ...},
-  author = {...},
+  title  = {CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?},
+  author = {Sadeghi, Jonathan and Seidenschwarz, Jenny and Allardice, Jesse and
+            Srinivasan, Sirish and Graham, Benjamin and Hawke, Jeffrey},
   year   = {2026},
 }
 ```
