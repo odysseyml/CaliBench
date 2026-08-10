@@ -1,0 +1,135 @@
+{
+  "scene": "galton_board_real",
+  "model": "cosmos3_super",
+  "num_bins": 11,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": null
+    },
+    {
+      "seed": 1,
+      "bin": null
+    },
+    {
+      "seed": 2,
+      "bin": null
+    },
+    {
+      "seed": 3,
+      "bin": null
+    },
+    {
+      "seed": 4,
+      "bin": 10
+    },
+    {
+      "seed": 5,
+      "bin": null
+    },
+    {
+      "seed": 6,
+      "bin": null
+    },
+    {
+      "seed": 7,
+      "bin": null
+    },
+    {
+      "seed": 8,
+      "bin": null
+    },
+    {
+      "seed": 9,
+      "bin": 10
+    },
+    {
+      "seed": 10,
+      "bin": null
+    },
+    {
+      "seed": 11,
+      "bin": 7
+    },
+    {
+      "seed": 12,
+      "bin": null
+    },
+    {
+      "seed": 13,
+      "bin": null
+    },
+    {
+      "seed": 14,
+      "bin": null
+    },
+    {
+      "seed": 15,
+      "bin": null
+    },
+    {
+      "seed": 16,
+      "bin": null
+    },
+    {
+      "seed": 17,
+      "bin": null
+    },
+    {
+      "seed": 18,
+      "bin": null
+    },
+    {
+      "seed": 19,
+      "bin": null
+    },
+    {
+      "seed": 20,
+      "bin": null
+    },
+    {
+      "seed": 21,
+      "bin": null
+    },
+    {
+      "seed": 22,
+      "bin": 9
+    },
+    {
+      "seed": 23,
+      "bin": null
+    },
+    {
+      "seed": 24,
+      "bin": null
+    },
+    {
+      "seed": 25,
+      "bin": null
+    },
+    {
+      "seed": 26,
+      "bin": null
+    },
+    {
+      "seed": 27,
+      "bin": null
+    },
+    {
+      "seed": 28,
+      "bin": null
+    },
+    {
+      "seed": 29,
+      "bin": null
+    },
+    {
+      "seed": 30,
+      "bin": 5
+    },
+    {
+      "seed": 31,
+      "bin": 8
+    }
+  ]
+}

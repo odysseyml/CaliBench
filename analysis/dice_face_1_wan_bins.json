@@ -1,0 +1,27 @@
+{
+  "scene": "dice_face_1",
+  "model": "wan",
+  "num_bins": 6,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": 1
+    },
+    {
+      "seed": 1,
+      "bin": 1
+    },
+    {
+      "seed": 2,
+      "bin": 1
+    },
+    {
+      "seed": 3,
+      "bin": 1
+    },
+    {
+      "seed": 4,
+      "bin": 1
+    }
+  ]
+}

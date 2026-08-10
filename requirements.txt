@@ -1,0 +1,8 @@
+replicate
+google-genai
+requests
+numpy
+scipy
+matplotlib
+Pillow
+opencv-python

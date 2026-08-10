@@ -1,0 +1,974 @@
+[
+  {
+    "scene": "dice",
+    "model": "wan",
+    "seed": 28,
+    "human_label": 1
+  },
+  {
+    "scene": "cards",
+    "model": "wan",
+    "seed": 17,
+    "human_label": "spades"
+  },
+  {
+    "scene": "lottery",
+    "model": "wan",
+    "seed": 5,
+    "human_label": null
+  },
+  {
+    "scene": "roulette",
+    "model": "runway45",
+    "seed": 26,
+    "human_label": null
+  },
+  {
+    "scene": "cards",
+    "model": "seedance",
+    "seed": 29,
+    "human_label": "spades"
+  },
+  {
+    "scene": "roulette",
+    "model": "wan",
+    "seed": 24,
+    "human_label": "red"
+  },
+  {
+    "scene": "roulette",
+    "model": "runway45",
+    "seed": 25,
+    "human_label": "black"
+  },
+  {
+    "scene": "cards",
+    "model": "veo31",
+    "seed": 17,
+    "human_label": null
+  },
+  {
+    "scene": "ball",
+    "model": "wan",
+    "seed": 11,
+    "human_label": "right"
+  },
+  {
+    "scene": "dice",
+    "model": "wan",
+    "seed": 0,
+    "human_label": 1
+  },
+  {
+    "scene": "ball",
+    "model": "runway45",
+    "seed": 9,
+    "human_label": "left"
+  },
+  {
+    "scene": "cards",
+    "model": "happyhorse",
+    "seed": 14,
+    "human_label": null
+  },
+  {
+    "scene": "walking",
+    "model": "runway45",
+    "seed": 15,
+    "human_label": "right"
+  },
+  {
+    "scene": "lottery",
+    "model": "veo31",
+    "seed": 4,
+    "human_label": null
+  },
+  {
+    "scene": "dice",
+    "model": "happyhorse",
+    "seed": 11,
+    "human_label": 1
+  },
+  {
+    "scene": "dice",
+    "model": "runway45",
+    "seed": 24,
+    "human_label": 4
+  },
+  {
+    "scene": "lottery",
+    "model": "wan",
+    "seed": 30,
+    "human_label": 7
+  },
+  {
+    "scene": "dice",
+    "model": "happyhorse",
+    "seed": 4,
+    "human_label": 1
+  },
+  {
+    "scene": "cards",
+    "model": "wan",
+    "seed": 28,
+    "human_label": null
+  },
+  {
+    "scene": "walking",
+    "model": "runway45",
+    "seed": 3,
+    "human_label": "right"
+  },
+  {
+    "scene": "ball",
+    "model": "veo31",
+    "seed": 19,
+    "human_label": "right"
+  },
+  {
+    "scene": "walking",
+    "model": "wan",
+    "seed": 16,
+    "human_label": "left"
+  },
+  {
+    "scene": "ball",
+    "model": "happyhorse",
+    "seed": 10,
+    "human_label": "right"
+  },
+  {
+    "scene": "dice",
+    "model": "veo31",
+    "seed": 0,
+    "human_label": 5
+  },
+  {
+    "scene": "walking",
+    "model": "runway45",
+    "seed": 16,
+    "human_label": "left"
+  },
+  {
+    "scene": "ball",
+    "model": "wan",
+    "seed": 17,
+    "human_label": "left"
+  },
+  {
+    "scene": "roulette",
+    "model": "runway45",
+    "seed": 8,
+    "human_label": null
+  },
+  {
+    "scene": "lottery",
+    "model": "seedance",
+    "seed": 31,
+    "human_label": 8
+  },
+  {
+    "scene": "ball",
+    "model": "runway45",
+    "seed": 2,
+    "human_label": "right"
+  },
+  {
+    "scene": "cards",
+    "model": "wan",
+    "seed": 14,
+    "human_label": "spades"
+  },
+  {
+    "scene": "cards",
+    "model": "wan",
+    "seed": 21,
+    "human_label": null
+  },
+  {
+    "scene": "walking",
+    "model": "seedance",
+    "seed": 24,
+    "human_label": "right"
+  },
+  {
+    "scene": "walking",
+    "model": "happyhorse",
+    "seed": 16,
+    "human_label": "right"
+  },
+  {
+    "scene": "dice",
+    "model": "runway45",
+    "seed": 14,
+    "human_label": 4
+  },
+  {
+    "scene": "cards",
+    "model": "wan",
+    "seed": 20,
+    "human_label": null
+  },
+  {
+    "scene": "dice",
+    "model": "veo31",
+    "seed": 9,
+    "human_label": 5
+  },
+  {
+    "scene": "ball",
+    "model": "runway45",
+    "seed": 20,
+    "human_label": "left"
+  },
+  {
+    "scene": "ball",
+    "model": "seedance",
+    "seed": 27,
+    "human_label": "left"
+  },
+  {
+    "scene": "roulette",
+    "model": "veo31",
+    "seed": 18,
+    "human_label": null
+  },
+  {
+    "scene": "roulette",
+    "model": "seedance",
+    "seed": 30,
+    "human_label": "red"
+  },
+  {
+    "scene": "dice",
+    "model": "happyhorse",
+    "seed": 3,
+    "human_label": 1
+  },
+  {
+    "scene": "roulette",
+    "model": "veo31",
+    "seed": 19,
+    "human_label": "black"
+  },
+  {
+    "scene": "dice",
+    "model": "happyhorse",
+    "seed": 23,
+    "human_label": 1
+  },
+  {
+    "scene": "lottery",
+    "model": "seedance",
+    "seed": 26,
+    "human_label": 13
+  },
+  {
+    "scene": "lottery",
+    "model": "wan",
+    "seed": 16,
+    "human_label": 8
+  },
+  {
+    "scene": "lottery",
+    "model": "seedance",
+    "seed": 24,
+    "human_label": 20
+  },
+  {
+    "scene": "ball",
+    "model": "seedance",
+    "seed": 17,
+    "human_label": "left"
+  },
+  {
+    "scene": "roulette",
+    "model": "seedance",
+    "seed": 16,
+    "human_label": "red"
+  },
+  {
+    "scene": "cards",
+    "model": "happyhorse",
+    "seed": 28,
+    "human_label": null
+  },
+  {
+    "scene": "dice",
+    "model": "seedance",
+    "seed": 13,
+    "human_label": 1
+  },
+  {
+    "scene": "cards",
+    "model": "veo31",
+    "seed": 8,
+    "human_label": null
+  },
+  {
+    "scene": "dice",
+    "model": "seedance",
+    "seed": 8,
+    "human_label": 1
+  },
+  {
+    "scene": "walking",
+    "model": "happyhorse",
+    "seed": 19,
+    "human_label": "right"
+  },
+  {
+    "scene": "ball",
+    "model": "wan",
+    "seed": 20,
+    "human_label": "right"
+  },
+  {
+    "scene": "walking",
+    "model": "seedance",
+    "seed": 26,
+    "human_label": "left"
+  },
+  {
+    "scene": "cards",
+    "model": "seedance",
+    "seed": 0,
+    "human_label": "hearts"
+  },
+  {
+    "scene": "ball",
+    "model": "seedance",
+    "seed": 26,
+    "human_label": "left"
+  },
+  {
+    "scene": "walking",
+    "model": "wan",
+    "seed": 14,
+    "human_label": "right"
+  },
+  {
+    "scene": "walking",
+    "model": "veo31",
+    "seed": 14,
+    "human_label": "right"
+  },
+  {
+    "scene": "lottery",
+    "model": "wan",
+    "seed": 1,
+    "human_label": 15
+  },
+  {
+    "scene": "walking",
+    "model": "happyhorse",
+    "seed": 5,
+    "human_label": "left"
+  },
+  {
+    "scene": "walking",
+    "model": "happyhorse",
+    "seed": 4,
+    "human_label": "right"
+  },
+  {
+    "scene": "ball",
+    "model": "happyhorse",
+    "seed": 7,
+    "human_label": "left"
+  },
+  {
+    "scene": "roulette",
+    "model": "happyhorse",
+    "seed": 26,
+    "human_label": "black"
+  },
+  {
+    "scene": "cards",
+    "model": "wan",
+    "seed": 4,
+    "human_label": "spades"
+  },
+  {
+    "scene": "lottery",
+    "model": "veo31",
+    "seed": 22,
+    "human_label": 8
+  },
+  {
+    "scene": "dice",
+    "model": "runway45",
+    "seed": 4,
+    "human_label": 4
+  },
+  {
+    "scene": "lottery",
+    "model": "happyhorse",
+    "seed": 22,
+    "human_label": 7
+  },
+  {
+    "scene": "cards",
+    "model": "runway45",
+    "seed": 27,
+    "human_label": null
+  },
+  {
+    "scene": "lottery",
+    "model": "seedance",
+    "seed": 25,
+    "human_label": 9
+  },
+  {
+    "scene": "lottery",
+    "model": "veo31",
+    "seed": 13,
+    "human_label": 8
+  },
+  {
+    "scene": "walking",
+    "model": "wan",
+    "seed": 8,
+    "human_label": "right"
+  },
+  {
+    "scene": "lottery",
+    "model": "wan",
+    "seed": 18,
+    "human_label": 15
+  },
+  {
+    "scene": "ball",
+    "model": "wan",
+    "seed": 25,
+    "human_label": "right"
+  },
+  {
+    "scene": "ball",
+    "model": "runway45",
+    "seed": 28,
+    "human_label": null
+  },
+  {
+    "scene": "ball",
+    "model": "seedance",
+    "seed": 29,
+    "human_label": "left"
+  },
+  {
+    "scene": "walking",
+    "model": "wan",
+    "seed": 19,
+    "human_label": "right"
+  },
+  {
+    "scene": "walking",
+    "model": "veo31",
+    "seed": 7,
+    "human_label": "right"
+  },
+  {
+    "scene": "dice",
+    "model": "veo31",
+    "seed": 28,
+    "human_label": 5
+  },
+  {
+    "scene": "dice",
+    "model": "seedance",
+    "seed": 11,
+    "human_label": 1
+  },
+  {
+    "scene": "cards",
+    "model": "veo31",
+    "seed": 30,
+    "human_label": null
+  },
+  {
+    "scene": "cards",
+    "model": "happyhorse",
+    "seed": 31,
+    "human_label": "spades"
+  },
+  {
+    "scene": "lottery",
+    "model": "seedance",
+    "seed": 12,
+    "human_label": 13
+  },
+  {
+    "scene": "lottery",
+    "model": "happyhorse",
+    "seed": 15,
+    "human_label": 7
+  },
+  {
+    "scene": "roulette",
+    "model": "seedance",
+    "seed": 22,
+    "human_label": null
+  },
+  {
+    "scene": "roulette",
+    "model": "runway45",
+    "seed": 14,
+    "human_label": null
+  },
+  {
+    "scene": "roulette",
+    "model": "veo31",
+    "seed": 5,
+    "human_label": null
+  },
+  {
+    "scene": "roulette",
+    "model": "wan",
+    "seed": 14,
+    "human_label": null
+  },
+  {
+    "scene": "roulette",
+    "model": "veo31",
+    "seed": 14,
+    "human_label": null
+  },
+  {
+    "scene": "roulette",
+    "model": "runway45",
+    "seed": 9,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "wan",
+    "seed": 6,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "runway45",
+    "seed": 11,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board",
+    "model": "veo31",
+    "seed": 12,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "happyhorse",
+    "seed": 7,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "wan",
+    "seed": 22,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "happyhorse",
+    "seed": 23,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "runway45",
+    "seed": 26,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board",
+    "model": "happyhorse",
+    "seed": 3,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "happyhorse",
+    "seed": 24,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "veo31",
+    "seed": 1,
+    "human_label": 8
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "seedance",
+    "seed": 25,
+    "human_label": 5
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "wan",
+    "seed": 23,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "happyhorse",
+    "seed": 22,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "seedance",
+    "seed": 7,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board",
+    "model": "wan",
+    "seed": 24,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "wan",
+    "seed": 7,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "wan",
+    "seed": 28,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "seedance",
+    "seed": 30,
+    "human_label": 7
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "veo31",
+    "seed": 12,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "runway45",
+    "seed": 23,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "happyhorse",
+    "seed": 6,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "wan",
+    "seed": 26,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "wan",
+    "seed": 23,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "seedance",
+    "seed": 23,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board",
+    "model": "wan",
+    "seed": 11,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "wan",
+    "seed": 26,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "happyhorse",
+    "seed": 27,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "seedance",
+    "seed": 3,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "wan",
+    "seed": 8,
+    "human_label": 6
+  },
+  {
+    "scene": "galton_board",
+    "model": "seedance",
+    "seed": 23,
+    "human_label": 10
+  },
+  {
+    "scene": "galton_board",
+    "model": "cosmos3_super",
+    "seed": 24,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board",
+    "model": "cosmos3_super",
+    "seed": 21,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board",
+    "model": "cosmos3_super",
+    "seed": 0,
+    "human_label": null
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "cosmos3_super",
+    "seed": 4,
+    "human_label": 10
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "cosmos3_super",
+    "seed": 9,
+    "human_label": 10
+  },
+  {
+    "scene": "galton_board_real",
+    "model": "cosmos3_super",
+    "seed": 29,
+    "human_label": null
+  },
+  {
+    "scene": "ball",
+    "model": "cosmos3_super",
+    "seed": 18,
+    "human_label": "left"
+  },
+  {
+    "scene": "ball",
+    "model": "cosmos3_super",
+    "seed": 3,
+    "human_label": "left"
+  },
+  {
+    "scene": "ball",
+    "model": "cosmos3_super",
+    "seed": 21,
+    "human_label": "right"
+  },
+  {
+    "scene": "pendulum",
+    "model": "cosmos3_super",
+    "seed": 27,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "cosmos3_super",
+    "seed": 30,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "cosmos3_super",
+    "seed": 25,
+    "human_label": null
+  },
+  {
+    "scene": "dice",
+    "model": "cosmos3_super",
+    "seed": 24,
+    "human_label": 3
+  },
+  {
+    "scene": "dice",
+    "model": "cosmos3_super",
+    "seed": 7,
+    "human_label": 4
+  },
+  {
+    "scene": "dice",
+    "model": "cosmos3_super",
+    "seed": 11,
+    "human_label": 3
+  },
+  {
+    "scene": "cards",
+    "model": "cosmos3_super",
+    "seed": 2,
+    "human_label": null
+  },
+  {
+    "scene": "cards",
+    "model": "cosmos3_super",
+    "seed": 30,
+    "human_label": null
+  },
+  {
+    "scene": "cards",
+    "model": "cosmos3_super",
+    "seed": 10,
+    "human_label": null
+  },
+  {
+    "scene": "roulette",
+    "model": "cosmos3_super",
+    "seed": 6,
+    "human_label": "green"
+  },
+  {
+    "scene": "roulette",
+    "model": "cosmos3_super",
+    "seed": 3,
+    "human_label": null
+  },
+  {
+    "scene": "roulette",
+    "model": "cosmos3_super",
+    "seed": 10,
+    "human_label": null
+  },
+  {
+    "scene": "walking",
+    "model": "cosmos3_super",
+    "seed": 19,
+    "human_label": "left"
+  },
+  {
+    "scene": "walking",
+    "model": "cosmos3_super",
+    "seed": 24,
+    "human_label": null
+  },
+  {
+    "scene": "walking",
+    "model": "cosmos3_super",
+    "seed": 22,
+    "human_label": "right"
+  },
+  {
+    "scene": "lottery",
+    "model": "cosmos3_super",
+    "seed": 21,
+    "human_label": null
+  },
+  {
+    "scene": "lottery",
+    "model": "cosmos3_super",
+    "seed": 0,
+    "human_label": null
+  },
+  {
+    "scene": "lottery",
+    "model": "cosmos3_super",
+    "seed": 24,
+    "human_label": 8
+  },
+  {
+    "scene": "pendulum",
+    "model": "wan",
+    "seed": 8,
+    "human_label": "right"
+  },
+  {
+    "scene": "pendulum",
+    "model": "wan",
+    "seed": 6,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "wan",
+    "seed": 11,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "seedance",
+    "seed": 31,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "seedance",
+    "seed": 15,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "seedance",
+    "seed": 26,
+    "human_label": "right"
+  },
+  {
+    "scene": "pendulum",
+    "model": "veo31",
+    "seed": 2,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "veo31",
+    "seed": 28,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "veo31",
+    "seed": 27,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "runway45",
+    "seed": 19,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "runway45",
+    "seed": 4,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "runway45",
+    "seed": 9,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "happyhorse",
+    "seed": 21,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "happyhorse",
+    "seed": 26,
+    "human_label": null
+  },
+  {
+    "scene": "pendulum",
+    "model": "happyhorse",
+    "seed": 10,
+    "human_label": null
+  }
+]

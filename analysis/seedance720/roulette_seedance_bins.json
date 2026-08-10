@@ -1,0 +1,135 @@
+{
+  "scene": "roulette",
+  "model": "seedance",
+  "num_bins": 3,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": 1
+    },
+    {
+      "seed": 1,
+      "bin": 1
+    },
+    {
+      "seed": 2,
+      "bin": null
+    },
+    {
+      "seed": 3,
+      "bin": 3
+    },
+    {
+      "seed": 4,
+      "bin": null
+    },
+    {
+      "seed": 5,
+      "bin": 1
+    },
+    {
+      "seed": 6,
+      "bin": null
+    },
+    {
+      "seed": 7,
+      "bin": null
+    },
+    {
+      "seed": 8,
+      "bin": 1
+    },
+    {
+      "seed": 9,
+      "bin": 1
+    },
+    {
+      "seed": 10,
+      "bin": 2
+    },
+    {
+      "seed": 11,
+      "bin": 3
+    },
+    {
+      "seed": 12,
+      "bin": 1
+    },
+    {
+      "seed": 13,
+      "bin": 1
+    },
+    {
+      "seed": 14,
+      "bin": 2
+    },
+    {
+      "seed": 15,
+      "bin": null
+    },
+    {
+      "seed": 16,
+      "bin": 2
+    },
+    {
+      "seed": 17,
+      "bin": 1
+    },
+    {
+      "seed": 18,
+      "bin": 2
+    },
+    {
+      "seed": 19,
+      "bin": 3
+    },
+    {
+      "seed": 20,
+      "bin": 3
+    },
+    {
+      "seed": 21,
+      "bin": 3
+    },
+    {
+      "seed": 22,
+      "bin": 1
+    },
+    {
+      "seed": 23,
+      "bin": 1
+    },
+    {
+      "seed": 24,
+      "bin": 2
+    },
+    {
+      "seed": 25,
+      "bin": 2
+    },
+    {
+      "seed": 26,
+      "bin": null
+    },
+    {
+      "seed": 27,
+      "bin": null
+    },
+    {
+      "seed": 28,
+      "bin": null
+    },
+    {
+      "seed": 29,
+      "bin": 1
+    },
+    {
+      "seed": 30,
+      "bin": null
+    },
+    {
+      "seed": 31,
+      "bin": 2
+    }
+  ]
+}

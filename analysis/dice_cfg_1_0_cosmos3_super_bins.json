@@ -1,0 +1,135 @@
+{
+  "scene": "dice_cfg_1_0",
+  "model": "cosmos3_super",
+  "num_bins": 6,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": null
+    },
+    {
+      "seed": 1,
+      "bin": 1
+    },
+    {
+      "seed": 2,
+      "bin": null
+    },
+    {
+      "seed": 3,
+      "bin": 2
+    },
+    {
+      "seed": 4,
+      "bin": 2
+    },
+    {
+      "seed": 5,
+      "bin": 5
+    },
+    {
+      "seed": 6,
+      "bin": 3
+    },
+    {
+      "seed": 7,
+      "bin": 5
+    },
+    {
+      "seed": 8,
+      "bin": null
+    },
+    {
+      "seed": 9,
+      "bin": null
+    },
+    {
+      "seed": 10,
+      "bin": 1
+    },
+    {
+      "seed": 11,
+      "bin": null
+    },
+    {
+      "seed": 12,
+      "bin": 6
+    },
+    {
+      "seed": 13,
+      "bin": null
+    },
+    {
+      "seed": 14,
+      "bin": 1
+    },
+    {
+      "seed": 15,
+      "bin": 2
+    },
+    {
+      "seed": 16,
+      "bin": 4
+    },
+    {
+      "seed": 17,
+      "bin": 3
+    },
+    {
+      "seed": 18,
+      "bin": 2
+    },
+    {
+      "seed": 19,
+      "bin": 4
+    },
+    {
+      "seed": 20,
+      "bin": null
+    },
+    {
+      "seed": 21,
+      "bin": 5
+    },
+    {
+      "seed": 22,
+      "bin": 1
+    },
+    {
+      "seed": 23,
+      "bin": 2
+    },
+    {
+      "seed": 24,
+      "bin": null
+    },
+    {
+      "seed": 25,
+      "bin": 3
+    },
+    {
+      "seed": 26,
+      "bin": null
+    },
+    {
+      "seed": 27,
+      "bin": 1
+    },
+    {
+      "seed": 28,
+      "bin": 3
+    },
+    {
+      "seed": 29,
+      "bin": 4
+    },
+    {
+      "seed": 30,
+      "bin": null
+    },
+    {
+      "seed": 31,
+      "bin": null
+    }
+  ]
+}

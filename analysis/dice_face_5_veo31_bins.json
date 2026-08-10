@@ -1,0 +1,27 @@
+{
+  "scene": "dice_face_5",
+  "model": "veo31",
+  "num_bins": 6,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": 5
+    },
+    {
+      "seed": 1,
+      "bin": 5
+    },
+    {
+      "seed": 2,
+      "bin": 6
+    },
+    {
+      "seed": 3,
+      "bin": 5
+    },
+    {
+      "seed": 4,
+      "bin": 5
+    }
+  ]
+}

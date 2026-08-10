@@ -1,0 +1,135 @@
+{
+  "scene": "dice",
+  "model": "happyhorse",
+  "num_bins": 6,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": 5
+    },
+    {
+      "seed": 1,
+      "bin": 1
+    },
+    {
+      "seed": 2,
+      "bin": 1
+    },
+    {
+      "seed": 3,
+      "bin": 1
+    },
+    {
+      "seed": 4,
+      "bin": 1
+    },
+    {
+      "seed": 5,
+      "bin": 1
+    },
+    {
+      "seed": 6,
+      "bin": 1
+    },
+    {
+      "seed": 7,
+      "bin": 1
+    },
+    {
+      "seed": 8,
+      "bin": 1
+    },
+    {
+      "seed": 9,
+      "bin": 1
+    },
+    {
+      "seed": 10,
+      "bin": 1
+    },
+    {
+      "seed": 11,
+      "bin": 1
+    },
+    {
+      "seed": 12,
+      "bin": 1
+    },
+    {
+      "seed": 13,
+      "bin": 1
+    },
+    {
+      "seed": 14,
+      "bin": 1
+    },
+    {
+      "seed": 15,
+      "bin": 1
+    },
+    {
+      "seed": 16,
+      "bin": 1
+    },
+    {
+      "seed": 17,
+      "bin": 1
+    },
+    {
+      "seed": 18,
+      "bin": 1
+    },
+    {
+      "seed": 19,
+      "bin": 1
+    },
+    {
+      "seed": 20,
+      "bin": null
+    },
+    {
+      "seed": 21,
+      "bin": 1
+    },
+    {
+      "seed": 22,
+      "bin": 1
+    },
+    {
+      "seed": 23,
+      "bin": 1
+    },
+    {
+      "seed": 24,
+      "bin": 1
+    },
+    {
+      "seed": 25,
+      "bin": 1
+    },
+    {
+      "seed": 26,
+      "bin": 1
+    },
+    {
+      "seed": 27,
+      "bin": 1
+    },
+    {
+      "seed": 28,
+      "bin": 1
+    },
+    {
+      "seed": 29,
+      "bin": 1
+    },
+    {
+      "seed": 30,
+      "bin": 1
+    },
+    {
+      "seed": 31,
+      "bin": 1
+    }
+  ]
+}

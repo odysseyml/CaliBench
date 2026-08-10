@@ -1,0 +1,27 @@
+{
+  "scene": "dice_face_3",
+  "model": "cosmos3_super",
+  "num_bins": 6,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": 5
+    },
+    {
+      "seed": 1,
+      "bin": 3
+    },
+    {
+      "seed": 2,
+      "bin": 5
+    },
+    {
+      "seed": 3,
+      "bin": 5
+    },
+    {
+      "seed": 4,
+      "bin": 3
+    }
+  ]
+}

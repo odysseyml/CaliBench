@@ -1,0 +1,135 @@
+{
+  "scene": "galton_board",
+  "model": "wan",
+  "num_bins": 11,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": 6
+    },
+    {
+      "seed": 1,
+      "bin": 6
+    },
+    {
+      "seed": 2,
+      "bin": 6
+    },
+    {
+      "seed": 3,
+      "bin": 6
+    },
+    {
+      "seed": 4,
+      "bin": 6
+    },
+    {
+      "seed": 5,
+      "bin": 6
+    },
+    {
+      "seed": 6,
+      "bin": 6
+    },
+    {
+      "seed": 7,
+      "bin": 6
+    },
+    {
+      "seed": 8,
+      "bin": 6
+    },
+    {
+      "seed": 9,
+      "bin": null
+    },
+    {
+      "seed": 10,
+      "bin": 6
+    },
+    {
+      "seed": 11,
+      "bin": null
+    },
+    {
+      "seed": 12,
+      "bin": 6
+    },
+    {
+      "seed": 13,
+      "bin": null
+    },
+    {
+      "seed": 14,
+      "bin": null
+    },
+    {
+      "seed": 15,
+      "bin": 6
+    },
+    {
+      "seed": 16,
+      "bin": null
+    },
+    {
+      "seed": 17,
+      "bin": 6
+    },
+    {
+      "seed": 18,
+      "bin": 6
+    },
+    {
+      "seed": 19,
+      "bin": 6
+    },
+    {
+      "seed": 20,
+      "bin": 6
+    },
+    {
+      "seed": 21,
+      "bin": 6
+    },
+    {
+      "seed": 22,
+      "bin": 6
+    },
+    {
+      "seed": 23,
+      "bin": 6
+    },
+    {
+      "seed": 24,
+      "bin": 6
+    },
+    {
+      "seed": 25,
+      "bin": 6
+    },
+    {
+      "seed": 26,
+      "bin": 5
+    },
+    {
+      "seed": 27,
+      "bin": 6
+    },
+    {
+      "seed": 28,
+      "bin": 6
+    },
+    {
+      "seed": 29,
+      "bin": 6
+    },
+    {
+      "seed": 30,
+      "bin": 6
+    },
+    {
+      "seed": 31,
+      "bin": 6
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "scene": "cards",
+  "model": "seedance",
+  "num_bins": 4,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": 1
+    },
+    {
+      "seed": 1,
+      "bin": 1
+    },
+    {
+      "seed": 2,
+      "bin": 4
+    },
+    {
+      "seed": 3,
+      "bin": null
+    },
+    {
+      "seed": 4,
+      "bin": 1
+    },
+    {
+      "seed": 5,
+      "bin": 1
+    },
+    {
+      "seed": 6,
+      "bin": 1
+    },
+    {
+      "seed": 7,
+      "bin": 1
+    },
+    {
+      "seed": 8,
+      "bin": 4
+    },
+    {
+      "seed": 9,
+      "bin": 1
+    },
+    {
+      "seed": 10,
+      "bin": 4
+    },
+    {
+      "seed": 11,
+      "bin": 4
+    },
+    {
+      "seed": 12,
+      "bin": 1
+    },
+    {
+      "seed": 13,
+      "bin": null
+    },
+    {
+      "seed": 14,
+      "bin": 4
+    },
+    {
+      "seed": 15,
+      "bin": 4
+    },
+    {
+      "seed": 16,
+      "bin": 1
+    },
+    {
+      "seed": 17,
+      "bin": 4
+    },
+    {
+      "seed": 18,
+      "bin": 1
+    },
+    {
+      "seed": 19,
+      "bin": 4
+    },
+    {
+      "seed": 20,
+      "bin": 4
+    },
+    {
+      "seed": 21,
+      "bin": null
+    },
+    {
+      "seed": 22,
+      "bin": 4
+    },
+    {
+      "seed": 23,
+      "bin": 4
+    },
+    {
+      "seed": 24,
+      "bin": 4
+    },
+    {
+      "seed": 25,
+      "bin": 1
+    },
+    {
+      "seed": 26,
+      "bin": 1
+    },
+    {
+      "seed": 27,
+      "bin": 4
+    },
+    {
+      "seed": 28,
+      "bin": 4
+    },
+    {
+      "seed": 29,
+      "bin": 4
+    },
+    {
+      "seed": 30,
+      "bin": 4
+    },
+    {
+      "seed": 31,
+      "bin": 4
+    }
+  ]
+}

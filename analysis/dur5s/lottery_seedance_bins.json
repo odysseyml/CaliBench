@@ -1,0 +1,135 @@
+{
+  "scene": "lottery",
+  "model": "seedance",
+  "num_bins": 20,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": 14
+    },
+    {
+      "seed": 1,
+      "bin": 18
+    },
+    {
+      "seed": 2,
+      "bin": 18
+    },
+    {
+      "seed": 3,
+      "bin": 13
+    },
+    {
+      "seed": 4,
+      "bin": 18
+    },
+    {
+      "seed": 5,
+      "bin": 18
+    },
+    {
+      "seed": 6,
+      "bin": 10
+    },
+    {
+      "seed": 7,
+      "bin": 19
+    },
+    {
+      "seed": 8,
+      "bin": 18
+    },
+    {
+      "seed": 9,
+      "bin": 10
+    },
+    {
+      "seed": 10,
+      "bin": 17
+    },
+    {
+      "seed": 11,
+      "bin": 15
+    },
+    {
+      "seed": 12,
+      "bin": 12
+    },
+    {
+      "seed": 13,
+      "bin": 17
+    },
+    {
+      "seed": 14,
+      "bin": 8
+    },
+    {
+      "seed": 15,
+      "bin": 19
+    },
+    {
+      "seed": 16,
+      "bin": 17
+    },
+    {
+      "seed": 17,
+      "bin": 1
+    },
+    {
+      "seed": 18,
+      "bin": 12
+    },
+    {
+      "seed": 19,
+      "bin": 18
+    },
+    {
+      "seed": 20,
+      "bin": 11
+    },
+    {
+      "seed": 21,
+      "bin": 1
+    },
+    {
+      "seed": 22,
+      "bin": null
+    },
+    {
+      "seed": 23,
+      "bin": 17
+    },
+    {
+      "seed": 24,
+      "bin": 17
+    },
+    {
+      "seed": 25,
+      "bin": 17
+    },
+    {
+      "seed": 26,
+      "bin": 1
+    },
+    {
+      "seed": 27,
+      "bin": 18
+    },
+    {
+      "seed": 28,
+      "bin": 18
+    },
+    {
+      "seed": 29,
+      "bin": 1
+    },
+    {
+      "seed": 30,
+      "bin": 18
+    },
+    {
+      "seed": 31,
+      "bin": null
+    }
+  ]
+}

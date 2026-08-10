@@ -1,0 +1,27 @@
+{
+  "scene": "dice_face_6",
+  "model": "happyhorse",
+  "num_bins": 6,
+  "rollouts": [
+    {
+      "seed": 0,
+      "bin": 1
+    },
+    {
+      "seed": 1,
+      "bin": 5
+    },
+    {
+      "seed": 2,
+      "bin": 1
+    },
+    {
+      "seed": 3,
+      "bin": 5
+    },
+    {
+      "seed": 4,
+      "bin": 1
+    }
+  ]
+}
