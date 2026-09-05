@@ -1,5 +1,31 @@
 # CaliBench
 
+[![arXiv](https://img.shields.io/badge/arXiv-2608.16829-b31b1b.svg)](https://arxiv.org/abs/2608.16829)
+
+The official implementation of "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?". This work is accepted to **TMLR**.
+
+> [**CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?**](https://arxiv.org/abs/2608.16829)            
+> Jonathan Sadeghi, Jenny Seidenschwarz, Jesse Allardice, Sirish Srinivasan, Benjamin Graham, Jeffrey Hawke
+
+
+## How to Cite
+
+Please cite the paper if you benefit from our paper or the repository:
+
+```bibtex
+@article{
+sadeghi2026calibench,
+title={CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?},
+author={Jonathan Sadeghi and Jenny Seidenschwarz and Jesse Allardice and Sirish Srinivasan and Benjamin Graham and Jeffrey Hawke},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=rWE29rkvDz},
+note={}
+}
+}
+```
+
 **Calibration benchmark for image-to-video world models.** CaliBench measures whether a video generator
 reproduces the *correct distribution* of physical outcomes — not just plausible motion. Each of nine
 stochastic scenes (a die roll, a Galton board, a pendulum released to swing left or right, …) is
@@ -110,13 +136,3 @@ committed outcomes via the **Analysis** and **Figures** stages. Appendix ablatio
 uniform-5s duration, the dice CFG-sweep and target-face studies) read their own committed bins and are
 regenerated only with the noted generation/extraction scripts.
 
-## Citation
-
-```bibtex
-@article{calibench,
-  title  = {CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?},
-  author = {Sadeghi, Jonathan and Seidenschwarz, Jenny and Allardice, Jesse and
-            Srinivasan, Sirish and Graham, Benjamin and Hawke, Jeffrey},
-  year   = {2026},
-}
-```
