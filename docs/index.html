@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?</title>
+<meta name="description" content="CaliBench tests whether video world models produce physically calibrated outcome distributions. TMLR 2026.">
+<meta property="og:title" content="CaliBench">
+<meta property="og:description" content="CaliBench tests whether video world models produce physically calibrated outcome distributions. TMLR 2026.">
+<meta property="og:url" content="https://odysseyml.github.io/CaliBench/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600&family=Source+Code+Pro&display=swap">
+<style>
+:root{
+  --fg:#4a4a4a; --title:#363636; --link:#3273dc; --line:#dbdbdb; --code:#f5f5f5;
+  --f-body:"Noto Sans", "Helvetica Neue", Arial, sans-serif;
+  --f-mono:"Source Code Pro", ui-monospace, Menlo, Consolas, monospace;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:#fff;color:var(--fg);font:400 16px/1.5 var(--f-body)}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+:focus-visible{outline:2px solid var(--link);outline-offset:2px}
+.container{max-width:960px;margin:0 auto;padding-inline:16px}
+.narrow{max-width:800px}
+section{padding-block:2.5rem}
+p{margin:0}
+.section-title{font:600 2rem/1.125 var(--f-body);color:var(--title);text-align:center;margin:0 0 1.5rem}
+.content{text-align:justify;hyphens:auto}
+.content p + p{margin-top:1rem}
+
+.hero{padding-block:3rem 1.5rem;text-align:center}
+.pub-title{font:600 2.6rem/1.15 var(--f-body);color:var(--title);margin:0 auto;max-width:900px;text-wrap:balance}
+.authors{font-size:1.2rem;margin-top:1.25rem;line-height:1.7}
+.authors span{display:inline-block;margin-inline:.35rem}
+.aff{font-size:1.1rem;margin-top:.35rem}
+.venue{font-size:1rem;margin-top:.5rem;color:var(--title);font-weight:500}
+.links{display:flex;justify-content:center;flex-wrap:wrap;gap:.5rem;margin-top:1.25rem}
+.pill{display:inline-flex;align-items:center;gap:.45rem;background:var(--title);color:#fff;border-radius:9999px;padding:.55rem 1.1rem;font:500 1rem/1 var(--f-body)}
+.pill:hover{background:#292929;color:#fff;text-decoration:none}
+.pill svg{width:16px;height:16px;fill:#fff}
+
+#cite .section-title{text-align:left}
+.bib{position:relative}
+.bib pre{background:var(--code);margin:0;padding:1.25rem 1.5rem;overflow-x:auto;font:400 .85rem/1.6 var(--f-mono);border-radius:4px}
+.btn{position:absolute;top:.6rem;right:.6rem;font:400 .9rem/1 var(--f-body);padding:.5rem .9rem;border:1px solid var(--line);border-radius:4px;background:#fff;color:var(--fg);cursor:pointer}
+.btn:hover{border-color:#b5b5b5}
+
+@media (max-width:600px){.pub-title{font-size:1.9rem}.section-title{font-size:1.6rem}.authors{font-size:1.05rem}}
+</style>
+</head>
+<body>
+<section class="hero">
+  <div class="container">
+    <h1 class="pub-title">CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?</h1>
+    <div class="authors">
+      <span><a href="https://jcsadeghi.github.io">Jonathan Sadeghi</a></span>
+      <span>Jenny Seidenschwarz</span>
+      <span>Jesse Allardice</span>
+      <span>Sirish Srinivasan</span>
+      <span>Benjamin Graham</span>
+      <span>Jeffrey Hawke</span>
+    </div>
+    <div class="aff">Odyssey</div>
+    <div class="venue">TMLR 2026 &nbsp;·&nbsp; WOOP @ ECCV 2026</div>
+    <div class="links">
+      <a class="pill" href="https://arxiv.org/abs/2608.16829"><svg viewBox="0 0 16 16"><path d="M2 2l5 6-5 6h2.5L8 9.7 11.5 14H14L9 8l5-6h-2.5L8 6.3 4.5 2z"/></svg>arXiv</a>
+      <a class="pill" href="https://github.com/odysseyml/CaliBench"><svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>Code</a>
+      <a class="pill" href="https://odyssey.systems/introducing-calibench"><svg viewBox="0 0 16 16"><path d="M2 2h12v2H2zM2 6h12v2H2zM2 10h8v2H2z"/></svg>Blog</a>
+    </div>
+  </div>
+</section>
+
+
+
+<section>
+  <div class="container narrow">
+    <h2 class="section-title">Abstract</h2>
+    <div class="content">
+      <p>Video world models approximate the stochastic distribution of physical outcomes through generative sampling, but existing benchmarks score individual generations or compare distributions coarsely over a whole dataset, leaving the fine-grained aleatoric uncertainty of specific phenomena untested. We introduce CaliBench, which scores outcomes in a physically interpretable discrete space - a bin index, a die face, a suit, a colour - rather than a learned feature space such as in FID, so the distance from a known reference distribution is measured directly. We curate outcome spaces whose reference is known in closed form (binomial Galton boards, Bernoulli forks, uniform dice/cards/lottery, a skewed European-roulette colour), enabling an exact calibration test. We decompose performance into two orthogonal axes that a single accuracy metric conflates: scorability, the fraction of generations yielding a scoreable outcome, and calibration, the total variation distance from the reference on that sample. A chi-squared test assesses significance; as calibration is its null hypothesis it can evidence only miscalibration, and at N=32 per cell detects only large deviations.</p>
+      <p>We apply it to nine scenes and six image-to-video models (WAN-2.7, SeeDance-2.0, HappyHorse-1.0, Veo 3.1, Runway Gen-4.5, Cosmos3-Super), 32 generations each. Models consistently concentrate probability mass on a few outcomes rather than reproducing the reference. Most scene-model combinations are significantly miscalibrated, in the extreme collapsing to one outcome, as Veo 3.1 does on dice. On roulette, generations often leave the ball ambiguously placed, giving several models low scorability. Performance varies by scene: no model dominates all nine. We release the protocol and a metric (mean normalised total variation, mnTV) for comparing new models against our results.</p>
+    </div>
+  </div>
+</section>
+
+
+
+<section id="cite">
+  <div class="container">
+    <h2 class="section-title">BibTeX</h2>
+    <div class="bib">
+      <button class="btn" id="copy-bib" type="button">Copy</button>
+<pre id="bibtex">@article{sadeghi2026calibench,
+  title   = {CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?},
+  author  = {Sadeghi, Jonathan and Seidenschwarz, Jenny and Allardice, Jesse and
+             Srinivasan, Sirish and Graham, Benjamin and Hawke, Jeffrey},
+  journal = {Transactions on Machine Learning Research},
+  year    = {2026},
+  eprint  = {2608.16829},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG}
+}</pre>
+    </div>
+  </div>
+</section>
+
+
+<script>
+document.getElementById("copy-bib").addEventListener("click",e=>{
+  const b=e.currentTarget, pre=document.getElementById("bibtex");
+  navigator.clipboard.writeText(pre.textContent).then(()=>{b.textContent="Copied";setTimeout(()=>b.textContent="Copy",1600);})
+  .catch(()=>{const r=document.createRange();r.selectNodeContents(pre);const s=getSelection();s.removeAllRanges();s.addRange(r);});
+});
+</script>
+</body>
+</html>
