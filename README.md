@@ -1,8 +1,9 @@
 # CaliBench
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.16829-b31b1b.svg)](https://arxiv.org/abs/2608.16829)
+[![Blog](https://img.shields.io/badge/Blog-Introducing%20CaliBench-blue.svg)](https://odyssey.systems/introducing-calibench)
 
-The official implementation of "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?". This work is accepted to **TMLR**.
+The official implementation of "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?". This work is accepted to **TMLR**. Read the accompanying blog post: [Introducing CaliBench](https://odyssey.systems/introducing-calibench).
 
 > [**CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?**](https://arxiv.org/abs/2608.16829)            
 > Jonathan Sadeghi, Jenny Seidenschwarz, Jesse Allardice, Sirish Srinivasan, Benjamin Graham, Jeffrey Hawke
